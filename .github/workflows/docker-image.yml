@@ -32,4 +32,3 @@ jobs:
         context: .
         push: true
         tags: ethanblackthorn/kpi_iit_l4-5
-
